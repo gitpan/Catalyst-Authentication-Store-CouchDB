@@ -1,0 +1,6 @@
+blib/
+inc/
+.git/
+.gitignore
+.shipit
+ignore.txt
